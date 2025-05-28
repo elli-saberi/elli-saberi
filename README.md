@@ -1,6 +1,6 @@
 #  
 
-My journey recently started with data analysis, where I discovered my passion for working with data. This path naturally led me to explore backend development, where I continue to grow and expand my skills.
+Started with data analysis and a passion for data-driven solutions. Now, I’m focused on DevOps, automation, and modern deployment practices.
 
 ---
 

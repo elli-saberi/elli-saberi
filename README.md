@@ -1,6 +1,6 @@
 #  
 
-Started with data analysis and a passion for data-driven solutions. Now, I’m focused on DevOps, automation, and modern deployment practices.
+DevOps & Data Analytics enthusiast.
 
 ---
 
